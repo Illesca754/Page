@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultoría de Recursos Humanos</title>
+    <style>
+        /* Estilos CSS aquí */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Consultoría de Recursos Humanos</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#proposito">Propósito</a></li>
+            <li><a href="#valores">Valores</a></li>
+            <li><a href="#competencias">Competencias</a></li>
+            <li><a href="#organigrama">Organigrama</a></li>
+            <li><a href="#pruebas">Pruebas</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section id="proposito">
+            <h2>Propósito</h2>
+            <p>Aquí puedes escribir una breve descripción del propósito de la consultoría en Recursos Humanos.</p>
+        </section>
+        
+        <section id="valores">
+            <h2>Valores</h2>
+            <p>Lista de valores de la consultoría:</p>
+            <ul>
+                <li>Valor 1</li>
+                <li>Valor 2</li>
+                <li>Valor 3</li>
+                <!-- Agrega más valores según sea necesario -->
+            </ul>
+        </section>
+        
+        <section id="competencias">
+            <h2>Competencias</h2>
+            <p>Descripción de las competencias que ofrece la consultoría en Recursos Humanos.</p>
+        </section>
+        
+        <section id="organigrama">
+            <h2>Organigrama</h2>
+            <p>Aquí puedes incluir un organigrama que represente la estructura de la consultoría.</p>
+            <!-- Puedes usar una imagen o dibujar el organigrama directamente aquí -->
+        </section>
+        
+        <section id="pruebas">
+            <h2>Pruebas</h2>
+            <p>Ofrecemos diversas pruebas y evaluaciones, incluyendo:</p>
+            <ul>
+                <li>Evaluaciones Psicológicas</li>
+                <li>Evaluación de Clima Laboral</li>
+                <li>Evaluación de Desempeño</li>
+                <!-- Agrega más pruebas según sea necesario -->
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Consultoría de Recursos Humanos</p>
+    </footer>
+</body>
+</html>
